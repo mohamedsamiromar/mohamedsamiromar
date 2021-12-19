@@ -4,7 +4,7 @@
 
 📖 I love Reading and Learning.
 
-🇬🇧 I'm based in Egypt, EG.
+🇪🇬 I'm based in Egypt, EG. 
 
 ☕️ I drink Coffee in morning.
 
