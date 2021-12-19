@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hi, I'm Mohamed Samir, and welcome to my GitHub bio.
 
-<!--
-**mohamedsamiromar/mohamedsamiromar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✍️ I'm a Python Django Developer .
 
-Here are some ideas to get you started:
+🥅 2021 Goals: Contribute more to Open Source projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 I love Reading and Learning.
+
+🇬🇧 I'm based in Egypt, EG.
+
+☕️ I drink Coffee in morning.
+
+🌱 I’m currently learning Celery $ Pandas🤣
+
+🥅 2021 Goals: Contribute more to Open Source projects & Front end Technology
+
+
+You can find me on <a class="reference external" href="https://twitter.com/Mohamed46953613">Linked in</a>.</p>, <a class="reference external" href="https://www.linkedin.com/in/mohamed-samir-72b21718a/">Twitter</a>.</p>, and lots of other sites.
+
