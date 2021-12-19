@@ -2,13 +2,11 @@
 
 ✍️ I'm a Python Django Developer .
 
-🥅 2021 Goals: Contribute more to Open Source projects. 
-
 📖 I love Reading and Learning.
 
 🇬🇧 I'm based in Egypt, EG.
 
-☕️ I drink Coffee in morning.
+☕️ I love drink Coffee in morning.
 
 🌱 I’m currently learning Celery $ Pandas🤣
 
