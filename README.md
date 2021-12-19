@@ -1,12 +1,12 @@
 👋 Hi, I'm Mohamed Samir, and welcome to my GitHub bio.
 
-✍️ I'm a Python Django Developer .
+✍️ I'm a Python 🐍 Django Developer .
 
 📖 I love Reading and Learning.
 
 🇬🇧 I'm based in Egypt, EG.
 
-☕️ I love drink Coffee in morning.
+☕️ I drink Coffee in morning.
 
 🌱 I’m currently learning Celery & Pandas🤣
 
