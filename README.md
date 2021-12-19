@@ -14,5 +14,5 @@
 
 🥅 2021 Goals: Contribute more to Open Source projects & Front end Technology
 
-You can find me on <a class="reference external" href="https://twitter.com/Mohamed46953613">Linkedin</a>, <a class="reference external" href="https://www.linkedin.com/in/mohamed-samir-72b21718a/">Twitter</a>, and lots of other sites.
+You can find me on <a class="reference external" href="https://twitter.com/Mohamed46953613">Twitter</a>, <a class="reference external" href="https://www.linkedin.com/in/mohamed-samir-72b21718a/">Linkedin</a>, and lots of other sites.
 
