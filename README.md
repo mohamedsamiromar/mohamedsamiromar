@@ -8,7 +8,7 @@
 
 ☕️ I love drink Coffee in morning.
 
-🌱 I’m currently learning Celery $ Pandas🤣
+🌱 I’m currently learning Celery & Pandas🤣
 
 🥅 2021 Goals: Contribute more to Open Source projects & Front end Technology
 
