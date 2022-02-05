@@ -6,8 +6,6 @@
 
 🇪🇬 I'm based in Egypt, EG. 
 
-☕️ I drink Coffee in morning.
-
 🌱 I’m currently learning Celery & Pandas🤣
 
 🥅 2022 Goals: Contribute more to Open Source projects & Frontend Technology
