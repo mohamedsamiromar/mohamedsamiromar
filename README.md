@@ -2,13 +2,13 @@
 
 ✍️ I'm a Python 🐍 Django Developer .
 
-📖 I love Reading and Learning.
-
-🇪🇬 I'm based in Egypt, EG. 
-
 🌱 I’m currently learning Data Analysis and Machine Learning🤣
 
 🥅 2022 Goals: Contribute more to Open Source projects & Frontend Technology
+
+📖 I love Reading and Learning.
+
+🇪🇬 I'm based in Egypt, EG. 
 
 ⚡ Fun fact: I love horses and riding 🏇🏾
 
