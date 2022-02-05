@@ -10,5 +10,7 @@
 
 🥅 2022 Goals: Contribute more to Open Source projects & Frontend Technology
 
+⚡ Fun fact: I love horses and riding
+
 You can find me on <a class="reference external" href="https://twitter.com/Mohamed46953613">Twitter</a>, <a class="reference external" href="https://www.linkedin.com/in/mohamed-samir-72b21718a/">Linkedin</a>, and lots of other sites.
 
