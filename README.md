@@ -6,7 +6,7 @@
 
 🇪🇬 I'm based in Egypt, EG. 
 
-🌱 I’m currently learning Celery & Pandas🤣
+🌱 I’m currently learning Data Analysis and Machine Learning🤣
 
 🥅 2022 Goals: Contribute more to Open Source projects & Frontend Technology
 
