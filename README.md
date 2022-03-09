@@ -4,7 +4,7 @@
 
 🥅 2022 Goals: Contribute more to Open Source projects & Frontend Technology
 
-🌱 I'm currently trying to improve myself in Python by solving problems on =Hackerrank, reading docs, and more 🐍 💪
+🌱 I'm currently trying to improve myself in Python by solving problems on Hackerrank, reading docs, and more 🐍 💪
 
 📖 I love Reading and Learning.
 
