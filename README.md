@@ -1,17 +1,5 @@
-👋 Hi, I'm Mohamed Samir, and welcome to my GitHub bio.
-
-✍️ I'm a Python 🐍 Django Developer .
-
-🥅 2022 Goals: Contribute more to Open Source projects & Frontend Technology
-
-🌱 I'm currently trying to improve myself in Python by solving problems on LetCode, reading docs, and more 🐍 💪
-
-📖 I love Reading and Learning.
-
-🇪🇬 I'm based in Egypt, EG. 
-
-⚡ Fun fact: I love to read books while drinking coffee 📚 ☕
-
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohamed Samir</h1>
+<h3 align="center">I'm a Python Developer</h3>
 
 ## 🚀 Languages & Tools: 
 
