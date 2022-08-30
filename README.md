@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Puritec
 - 🌱 I’m currently learning Django
 - 🚀 I’m looking to collaborate on Django projects
-- ⚡ In my free time, I solve problems on HackerRank or LeetCode and read tech articles and books.
--  Fun fact: README file has a bug! 🤭
+- ⚡ In spare time, I solve problems on HackerRank or LeetCode and read tech articles and books.
+-  Fun fact: README file has a bug! 
 
 
 
