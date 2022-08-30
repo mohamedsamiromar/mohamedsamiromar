@@ -1,6 +1,16 @@
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohamed Samir</h1>
 <h3 align="center">I'm a Python Developer</h3>
 
+
+- 🔭 I’m currently working on Puritec
+- 🌱 I’m currently learning Django
+- 🚀 I’m looking to collaborate on Django projects
+- ⚡ In my free time, I solve problems on HackerRank or LeetCode and read tech articles and books.
+-  Fun fact: README file has a bug! 🤭
+
+
+
+
 ## 🚀 Languages & Tools: 
 
 <p align="left"> 
