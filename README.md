@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Python Developer</h3>
 
 
-- 🔭 I’m currently working on Puritec
+- 🔭 I’m currently working on mujiz
 - 🌱 I’m currently learning Django
 - 🚀 I’m looking to collaborate on Django projects
 - ⚡ In spare time, I solve problems on HackerRank or LeetCode and read tech articles and books.
