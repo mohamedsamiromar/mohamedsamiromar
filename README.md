@@ -1,32 +1,13 @@
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohamed Samir</h1>
-<h3 align="center">I'm a Python Developer</h3>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohamedomar9257/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-samir-72b21718a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Mohamed46953613) 
 
-- 🔭 I’m currently working on mujiz
-- 🌱 I’m currently learning Django
-- 🚀 I’m looking to collaborate on Django projects
-- ⚡ In spare time, I solve problems on HackerRank or LeetCode and read tech articles and books.
--  Fun fact: README file has a bug! 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedsamiromar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamiromar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamiromar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-## 🚀 Languages & Tools: 
-
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/></a>
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
- <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
- <a href="[https://git-scm.com/](https://www.docker.com/)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
- <a href="[https://git-scm.com/]([https://www.docker.com/](https://docs.celeryq.dev/en/stable/))" target="_blank"> <img src="https://img.icons8.com/color/48/000000/celery.png"/></a>
- <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
- <a href="https://www.jetbrains.com/pycharm//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
-
-</p>
-
-
-You can find me on <a class="reference external" href="https://twitter.com/Mohamed46953613">Twitter</a>, <a class="reference external" href="https://www.linkedin.com/in/mohamed-samir-72b21718a/">Linkedin</a>, and lots of other sites.
-
+---
+[![](https://visitcount.itsvg.in/api?id=mohamedsamiromar&icon=0&color=0)](https://visitcount.itsvg.in)
