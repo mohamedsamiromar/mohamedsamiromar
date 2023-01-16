@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on munjiz<br>
-🌱 I’m currently learning AWS
-Ask me about anything on Twitter @Mohamed46953613<br>📫
+🌱 I’m currently learning AWS<br>
+📫 Ask me about anything on Twitter @Mohamed46953613<br>
 How to reach me: mohamedsamiromar97@gmail.com<br>⚡
 I’m looking to collaborate on Django projects👯<br>
 Fun fact: This README file has a bug 🤭
