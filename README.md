@@ -2,7 +2,7 @@
 
 Backend engineer in Cairo. Python and Django — mostly the parts that have to stay up.
 
-At [Sandpoint Hydrographic](https://github.com/sandpointhydro) I work both ends of
+At [Sandpoint Hydrographic](https://sandpointhydrographic.com/) I work both ends of
 the sonar pipeline: the ROS2 acquisition layer that talks to the multibeam head,
 and the backend that ingests what it produces and serves it back. Not many people
 sit on both sides of that handoff, and it's changed how I build everything else.
